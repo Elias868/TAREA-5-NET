@@ -1,0 +1,6 @@
+@ApiElias_HostAddress = http://localhost:5036
+
+GET {{ApiElias_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
